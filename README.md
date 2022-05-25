@@ -1,5 +1,5 @@
 # iris
-Semplice algoritmo di machine learning K-means
+Semplice algoritmo di machine learning fatto con il K-means
 
 # Descrzione
 Questo progetto è stato creato per classificare varie classi di piante, in questo caso iris, utilizzando il K-means. In questo programma abbiamo utilizzato 3 classi differenti di piante, abbiamo quindi utilizzato 3 cluster(centroidi) differenti per classificarli.
