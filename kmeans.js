@@ -221,7 +221,7 @@ function kmean_step(punti, centroide)
         }
         
     }
-    console.log("Accuracy  è " + (precisione[0]+precisione[1]+precisione[2])/3 );
+    document.getElementById('accuracy').innerHTML = "L'accuracy  è " + (precisione[0]+precisione[1]+precisione[2])/3;
 }
 
 function controllaCentroide(centroideo , centroide) //check if the centroids don't move
